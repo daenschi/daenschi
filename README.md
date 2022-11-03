@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @daenschi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-daenschi/daenschi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @daenschi, this is my github so i dont lose code (again)
+- 👀 I’m interested in anthing cool and funky, mainly just trying to stay consitent with learning code. I get interessted in anything really fast.
+- 🌱 I’m currently learning Python, Powershell and Vim (lol wish me luck)
+- 💞️ I’m looking to collaborate on probably anything. I love stuff with hardware sensors and backend stuff.
+- 📫 How to reach me: Here or via daenschi@pm.me
